@@ -1,12 +1,13 @@
-# sprbt-web-template
+# virtual-threads-app
 
 ## Features
-- Spring Boot Maven Template Project
+- Virtual threads
+- SSE
 
 ## Requirements
 Building requires:
 
-1. Java 17
+1. Java 19
 2. Maven (3.8.5+)
 
 ## Installation
@@ -14,7 +15,3 @@ Building requires:
 ## Getting Started
 
 ## Documentation
-
-## Licence
-
-[MIT](https://......)
